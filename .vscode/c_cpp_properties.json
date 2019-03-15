@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\dev\\Extern_Libraries\\pubsubclient\\src",
+                "C:\\dev\\Extern_Libraries\\LSM303",
+                "C:\\Users\\mlodhi\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\mlodhi\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.1\\**",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
